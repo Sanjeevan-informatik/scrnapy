@@ -10,7 +10,7 @@ resource : https://scprep.readthedocs.io/en/stable/reference.html
 
 some of the code and function was copied from https://github.com/krishnaswamylab/scprep github repository
 
-
+we will chnage
 # scrnapy
 thank you for using me
 
